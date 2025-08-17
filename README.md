@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">Привет, я Антон <br/>
-Frontend & Fullstack разработчик
+Frontend & Fullstack разработчик<br/>
 </h2>
 
 
