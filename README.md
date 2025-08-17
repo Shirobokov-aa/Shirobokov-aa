@@ -29,8 +29,7 @@
 
 ### 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://metrics.lecoq.io/AntonShirobokov?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base_hireable=0&base_followers=0&base_stars=0&base_public=0&config.timezone=Europe%2FMoscow" />
 </p>
 
 ---
