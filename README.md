@@ -24,7 +24,7 @@
 ---
 
 ### 📊 Статистика GitHub
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&langs_count=6" height="150"/>
 </p>
@@ -35,14 +35,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonShirobokov&theme=tokyonight&hide_border=true&cache_seconds=3600&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7aa2f7" height="200"/>
-</p>
+</p> -->
 
 <!-- Альтернативные виджеты для быстрого обновления -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AntonShirobokov&style=flat-square&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/AntonShirobokov?style=flat-square&color=blue" alt="followers"/>
   <img src="https://img.shields.io/github/stars/AntonShirobokov?style=flat-square&color=blue" alt="stars"/>
-</p>
+</p> -->
 
 ---
 
