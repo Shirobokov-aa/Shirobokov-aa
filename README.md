@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi,+i`m+Anton+👋;Frontend+and+Fullstack+developer" alt="Typing SVG" />
 </h1>
 
----
-
 <h2 align="center">Привет, я Антон 👋</h1>
 <h3 align="center">Frontend & Fullstack разработчик</h3>
 
