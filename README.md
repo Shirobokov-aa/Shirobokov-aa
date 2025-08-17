@@ -45,11 +45,17 @@
 
 ### 🌐 Связаться со мной
 <p align="center">
-  <a href="https://t.me/твой_telegram">
+  <a href="https://t.me/shirobokov_a">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/твой_linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://discordapp.com/users/636184756794687490/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/shirobokov.aa/?igsh=b2x1Z3l5MW40dm5p&utm_source=qr#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/people/Anton-Sh/pfbid02cDxCUKpfzwwbhZp9mCumFaf3QjLAngJMQToe2NKw2Qk9jjucEjKWKWhhWRSRGN6jl/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
