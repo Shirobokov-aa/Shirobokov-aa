@@ -39,18 +39,6 @@
 
 ---
 
-### ⭐ Избранные проекты
-<p align="center">
-  <a href="https://github.com/AntonShirobokov/CreditPipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=CreditPipeline&theme=tokyonight&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/AntonShirobokov/MLmodule">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=MLmodule&theme=tokyonight&cache_seconds=86400" />
-  </a>
-</p>
-
----
-
 ### 🌐 Связаться со мной
 <p align="center">
   <a href="https://t.me/shirobokov_a">
