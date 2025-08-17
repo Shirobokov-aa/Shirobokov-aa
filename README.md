@@ -21,6 +21,16 @@
 ---
 
 ### 🛠️ Технологии и инструменты
+
+**💻 Frontend:**  
+Next.js, React, React Native, TailwindCSS, JavaScript, TypeScript
+
+**🔧 Backend:**  
+Node.js, Express, PostgreSQL, создание API и серверной логики
+
+**🐳 Инфраструктура и инструменты:**  
+Docker, Git, GitHub, VSCode, DevOps практики
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,postgres,docker,git,github,vscode" />
 </p>
