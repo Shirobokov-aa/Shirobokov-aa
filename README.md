@@ -27,19 +27,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonShirobokov&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonShirobokov&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntonShirobokov&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonShirobokov&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Связаться со мной
 <p align="center">
   <a href="https://t.me/shirobokov_a">
