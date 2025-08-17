@@ -12,6 +12,7 @@ Frontend & Fullstack разработчик</h2>
 <br/>
 
 </>
+
 <br/>
 Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**. I build both frontend and backend, creating modern web and mobile applications.
 
