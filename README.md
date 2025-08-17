@@ -9,10 +9,10 @@
 ---
 
 ### 🚀 Обо мне
-- 💻 Работаю с **Next.js, React, TypeScript**  
-- 🎨 Делаю красивые интерфейсы с **TailwindCSS**  
-- 🐳 Осваиваю **Docker и DevOps практики**  
-- 📈 Постоянно учусь и развиваюсь  
+- 💻 Работаю с **Next.js, React, TypeScript**
+- 🎨 Делаю красивые интерфейсы с **TailwindCSS**
+- 🐳 Осваиваю **Docker и DevOps практики**
+- 📈 Постоянно учусь и развиваюсь
 
 ---
 
@@ -25,19 +25,27 @@
 
 ### 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonShirobokov&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonShirobokov&theme=tokyonight&hide_border=true&cache_seconds=86400" height="200"/>
 </p>
 
 ---
 
 ### ⭐ Избранные проекты
 <p align="center">
-  <a href="https://github.com/AntonShirobokov/название_проекта1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=название_проекта1&theme=tokyonight" />
+  <a href="https://github.com/AntonShirobokov/CreditPipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=CreditPipeline&theme=tokyonight&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/AntonShirobokov/название_проекта2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=название_проекта2&theme=tokyonight" />
+  <a href="https://github.com/AntonShirobokov/MLmodule">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=MLmodule&theme=tokyonight&cache_seconds=86400" />
   </a>
 </p>
 
