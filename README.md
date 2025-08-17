@@ -23,21 +23,13 @@
 
 ---
 
-### 📊 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ### ⭐ Избранные проекты
 <p align="center">
-  <a href="https://github.com/AntonShirobokov/название_проекта1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=название_проекта1&theme=tokyonight" />
+  <a href="https://github.com/AntonShirobokov/plumbing_2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=plumbing_2.0&theme=tokyonight" />
   </a>
-  <a href="https://github.com/AntonShirobokov/название_проекта2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=название_проекта2&theme=tokyonight" />
+  <a href="https://github.com/AntonShirobokov/landing-bronz...">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=landing-bronz...&theme=tokyonight" />
   </a>
 </p>
 
@@ -55,4 +47,6 @@
 
 ---
 
-⭐️ Мои проекты — ниже в репозиториях ↓
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E97F7&height=100&section=footer"/>
+</p>
