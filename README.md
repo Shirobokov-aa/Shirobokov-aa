@@ -3,8 +3,7 @@
 </h1>
 
 <h2 align="center">Привет, я Антон <br/>
-Frontend & Fullstack разработчик<br/>
-</h2>
+Frontend & Fullstack разработчик</h2>
 
 
 ### 🚀 Обо мне | About Me
