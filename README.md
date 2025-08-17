@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi,+i`m+Anton+👋;Frontend+and+Fullstack+developer" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">Привет, я Антон <br/>
+<h2 align="center">Привет, я Антон. <br/>
 Frontend & Fullstack разработчик</h2>
 
 ---
@@ -10,7 +10,7 @@ Frontend & Fullstack разработчик</h2>
 ### 🚀 Обо мне | About Me
 Разработчик с фокусом на **TypeScript**, **Next.js**, **React** и **React Native**. Разрабатываю как фронтенд, так и бэкенд, создавая современные веб и мобильные приложения. 
 <br/>
--
+|
 <br/>
 Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**. I build both frontend and backend, creating modern web and mobile applications.
 
