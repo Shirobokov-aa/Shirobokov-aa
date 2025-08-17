@@ -25,16 +25,16 @@
 
 ### 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&include_all_commits=true&count_private=true&v=1" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6&v=1" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonShirobokov&theme=tokyonight&hide_border=true&cache_seconds=3600&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonShirobokov&theme=tokyonight&hide_border=true&cache_seconds=1800&date_format=M%20j%5B%2C%20Y%5D&v=1" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonShirobokov&theme=tokyonight&hide_border=true&cache_seconds=3600&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7aa2f7" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonShirobokov&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7aa2f7&v=1" height="200"/>
 </p>
 
 <!-- Альтернативные виджеты для быстрого обновления -->
@@ -42,6 +42,11 @@
   <img src="https://komarev.com/ghpvc/?username=AntonShirobokov&style=flat-square&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/AntonShirobokov?style=flat-square&color=blue" alt="followers"/>
   <img src="https://img.shields.io/github/stars/AntonShirobokov?style=flat-square&color=blue" alt="stars"/>
+</p>
+
+<!-- Альтернативная статистика с принудительным обновлением -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0&include_all_commits=true&count_private=true&v=2" height="150"/>
 </p>
 
 ---
