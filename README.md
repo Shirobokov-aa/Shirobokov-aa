@@ -21,6 +21,16 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,postgres,docker,git,github,vscode" />
 </p>
 
+### 📚 Сейчас изучаю
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Currently+working+on+...;Learning+Docker+and+DevOps;Building+awesome+web+apps;Exploring+new+technologies" alt="Current Status" />
+</p>
+
+### 🎯 Текущий статус
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=🚀+Open+to+new+opportunities;💻+Building+fullstack+applications;🎨+Creating+beautiful+UIs;📈+Always+learning+and+growing" alt="Status" />
+</p>
+
 ---
 
 ### 📊 Статистика GitHub
@@ -29,16 +39,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
-
-### ⭐ Избранные проекты
+### 🔥 Streak Stats
 <p align="center">
-  <a href="https://github.com/AntonShirobokov/название_проекта1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=название_проекта1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/AntonShirobokov/название_проекта2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonShirobokov&repo=название_проекта2&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonShirobokov&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonShirobokov&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AntonShirobokov&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+
+### 🐍 Snake Animation
+<p align="center">
+  <img src="https://github.com/AntonShirobokov/AntonShirobokov/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AntonShirobokov&style=flat-square&color=2E97F7" alt="profile views" />
+</p>
+
+### 📋 Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonShirobokov&theme=tokyonight" />
 </p>
 
 ---
