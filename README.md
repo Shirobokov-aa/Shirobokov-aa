@@ -2,19 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi,+i`m+Anton+👋;Frontend+and+Fullstack+developer" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">Привет, я Антон. <br/>
+<h2 align="center">Привет, я Антон <br/>
 Frontend & Fullstack разработчик</h2>
 
 ---
 
 ### 🚀 Обо мне | About Me
 Разработчик с фокусом на **TypeScript**, **Next.js**, **React** и **React Native**. Разрабатываю как фронтенд, так и бэкенд, создавая современные веб и мобильные приложения. 
-<br/>
-</>
-<br/>
-Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**. I build both frontend and backend, creating modern web and mobile applications.
 
-**Навыки и технологии:**
+**Навыки и технологии: | Skills & Technologies:**
 - 💻 **Frontend:** Next.js, React, React Native, TailwindCSS
 - 🔧 **Backend:** TypeScript, создание API и серверной логики для сайтов
 - 🐳 **Инфраструктура:** Docker, DevOps практики
@@ -23,7 +19,7 @@ Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**
 
 ---
 
-### 🛠️ Технологии и инструменты
+### 🛠️ Технологии и инструменты | Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,postgres,docker,git,github,vscode" />
@@ -31,7 +27,7 @@ Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**
 
 ---
 
-### 🌐 Связаться со мной
+### 🌐 Связаться со мной | Contact Me
 <p align="center">
   <a href="https://t.me/shirobokov_a">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -49,4 +45,4 @@ Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**
 
 ---
 
-⭐️ Мои проекты — ниже в репозиториях ↓
+⭐️ Мои проекты — ниже в репозиториях ↓ | My projects — below in repositories ↓
