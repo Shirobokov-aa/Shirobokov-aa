@@ -27,8 +27,6 @@ Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,postgres,docker,git,github,vscode" />
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
