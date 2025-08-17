@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет, я Антон 👋  
 
-<!--
-**Shirobokov-aa/Shirobokov-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой GitHub-профиль! 🚀  
 
-Here are some ideas to get you started:
+- 🔭 Сейчас работаю над: **Next.js проектами**  
+- 🌱 Изучаю: **TypeScript и Docker**  
+- 💬 Можно спросить про: **React, TailwindCSS, Vercel**  
+- ⚡ Факт обо мне: люблю создавать красивые интерфейсы  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Моя статистика GitHub:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonShirobokov&show_icons=true&theme=tokyonight)
+
+### 📊 Мой язык программирования:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShirobokov&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Связаться со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_ссылка)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твоя_ссылка)
