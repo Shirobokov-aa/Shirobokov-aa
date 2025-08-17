@@ -5,14 +5,11 @@
 <h2 align="center">Привет, я Антон <br/>
 Frontend & Fullstack разработчик</h2>
 
-<h2 align="center">Hi, I'm Anton <br/>
-Frontend & Fullstack Developerк</h2>
-
-
 ---
 
-### 🚀 Обо мне
-Разработчик с фокусом на **TypeScript**, **Next.js**, **React** и **React Native**. Разрабатываю как фронтенд, так и бэкенд, создавая современные веб и мобильные приложения.
+### 🚀 Обо мне | About Me
+Разработчик с фокусом на **TypeScript**, **Next.js**, **React** и **React Native**. Разрабатываю как фронтенд, так и бэкенд, создавая современные веб и мобильные приложения. |
+Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**. I build both frontend and backend, creating modern web and mobile applications.
 
 **Навыки и технологии:**
 - 💻 **Frontend:** Next.js, React, React Native, TailwindCSS
