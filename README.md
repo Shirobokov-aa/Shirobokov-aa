@@ -14,8 +14,8 @@ Fullstack разработчик</h2>
 Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**. I build both frontend and backend, creating modern web and mobile applications.
 
 **Навыки и технологии | Skills & Technologies:**
-- 💻 **Фронтенд | Frontend:** Next.js, React, React Native, TailwindCSS
-- 🔧 **Бекенд | Backend:** TypeScript, создание API и серверной логики для сайтов
+- 💻 **Фронтенд | Frontend:** Next.js, React, TailwindCSS
+- 🔧 **Бекенд | Backend:** TypeScript, PostgreSQL, Drizzle-ORM
 - 🐳 **Инфраструктура | Infrastructure:** Docker, DevOps практики
 - 📱 **Мобильная разработка | Mobile Development:** React Native
 
