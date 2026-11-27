@@ -75,8 +75,7 @@ Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shirobokov-aa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirobokov-aa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="./metrics.svg" alt="GitHub metrics" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirobokov-aa&theme=tokyonight&hide_border=true" />
 
@@ -84,16 +83,14 @@ Developer focused on **TypeScript**, **Next.js**, **React** and **React Native**
 
 ---
 
-## 📂 Избранные проекты | Featured Projects
+## 📂 Чем занимаюсь | What I Build
 
-| Проект | Описание | Стек |
-|---|---|---|
-| [task-manager-platformV3](https://github.com/Shirobokov-aa/task-manager-platformV3) | Платформа управления задачами | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [cars-by-v2-with-db-](https://github.com/Shirobokov-aa/cars-by-v2-with-db-) | Каталог авто с базой данных | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PG](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| [bots-python](https://github.com/Shirobokov-aa/bots-python) | Боты на Python | ![Py](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [n8n](https://github.com/Shirobokov-aa/n8n) | Автоматизация воркфлоу | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [plumbing-2.0](https://github.com/Shirobokov-aa/plumbing-2.0) | Сайт сантехнической компании | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| landing-* | Серия лендингов для клиентов | ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tw](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+- 🌐 **Лендинги и корпоративные сайты** для клиентов: Next.js, TailwindCSS, TypeScript
+- 🗂️ **Task-менеджер и каталоги с БД**: PostgreSQL, Drizzle-ORM, Docker
+- 🤖 **Боты и автоматизация**: Python, n8n
+- 🧠 **AI-агенты**: Claude Code skills, spec-driven development
+
+Часть работ в приватных репозиториях, подробности по запросу.
 
 ---
 
